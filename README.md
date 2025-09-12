@@ -9,11 +9,6 @@
 
 ---
 
-## 🌐 Connect with me
-- Personal Website: [hai-zen.netlify.app](https://hai-zen.netlify.app/)  
-
----
-
 ## 🎯 Hobbies & Interests
 - Solving the **Rubik’s Cube 3x3** 🧩  
 - Learning **Japanese** 🇯🇵 and **American English** 🇺🇸  
