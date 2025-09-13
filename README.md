@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Zaenal Arif
+[![Website Badge](https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=%235865F2)](https://hai-zen.netlify.app/)
 
 ---
 
