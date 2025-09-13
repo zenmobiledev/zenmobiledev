@@ -23,8 +23,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenmobiledev&hide_progress=true)](https://github.com/zenmobiledev/github-readme-stats)
 
 ---
-
-## 📊 Profile Stats
-![Profile views](https://komarev.com/ghpvc/?username=zenmobiledev&label=Profile%20views&color=0e75b6&style=flat)  
-
----
